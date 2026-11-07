@@ -1,0 +1,39 @@
+{
+ "built": "2026-11-07T10:52:51Z",
+ "companiesOk": 4967,
+ "companiesError": 3037,
+ "tickers": 10409,
+ "shards": [
+  "A",
+  "B",
+  "C",
+  "D",
+  "E",
+  "F",
+  "G",
+  "H",
+  "I",
+  "J",
+  "K",
+  "L",
+  "M",
+  "N",
+  "O",
+  "P",
+  "Q",
+  "R",
+  "S",
+  "T",
+  "U",
+  "V",
+  "W",
+  "X",
+  "Y",
+  "Z"
+ ],
+ "source": {
+  "tickers": "Wed, 04 Nov 2026 14:21:12 GMT",
+  "submissions": "Sat, 07 Nov 2026 04:38:23 GMT",
+  "companyfacts": "Sat, 07 Nov 2026 04:30:48 GMT"
+ }
+}
